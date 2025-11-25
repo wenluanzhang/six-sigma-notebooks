@@ -1,0 +1,7 @@
+# License
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+You may copy, redistribute, remix, and build upon the material in any medium, provided you attribute the work to the original author, do not use the material for commercial purposes, and share any derivative works under the same license.
+
+To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/).
