@@ -1,6 +1,6 @@
 # Six Sigma Jupyter Notebooks
 
-This repository contains Jupyter notebooks for Six Sigma procedures, based on material from the book *Six Sigma: A Case Study Approach Using Minitab*. This is a test for branch, commit and push. This is a second test for new branch.
+This repository contains Jupyter notebooks for Six Sigma procedures, based on material from the book *Six Sigma: A Case Study Approach Using Minitab*. This is a test for branch, commit and push. This is a second test for new branch. This is a third test.
 
 ## Overview
 
